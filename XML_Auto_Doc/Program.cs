@@ -5,7 +5,7 @@ namespace XML_Auto_Doc
 {
     internal class Program
     {
-        public const bool LOCAL_MODE = false;
+        public const bool LOCAL_MODE = true;
 
         public static void FatalError(string msg)
         {
