@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_Auto_Doc", "XML_Auto_Doc\XML_Auto_Doc.csproj", "{91281C44-CE31-4CD9-8EE1-13629C8E3399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91281C44-CE31-4CD9-8EE1-13629C8E3399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91281C44-CE31-4CD9-8EE1-13629C8E3399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91281C44-CE31-4CD9-8EE1-13629C8E3399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91281C44-CE31-4CD9-8EE1-13629C8E3399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9A0D932-CC37-4E15-A1D2-7D4018D07D4E}
+	EndGlobalSection
+EndGlobal

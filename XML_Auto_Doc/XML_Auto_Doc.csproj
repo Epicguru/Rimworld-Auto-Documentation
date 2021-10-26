@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="HtmlHeader.html" />
+    <None Remove="Title.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="HtmlHeader.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Title.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ShellProgressBar" Version="5.1.0" />
+  </ItemGroup>
+
+</Project>
