@@ -20,8 +20,8 @@ If you want more control, or more features, you can download the compiled genera
 
 The generator is a command-line tool. It must be given arguments:
  - **#0**: The version name, for display purposes.
- - **#1**: The path to the `Defs` folder. All sub-folders are also scanned.
- - **#2**: Optional path to another `Defs` folder, such as a mod folder.
+ - **#1**: The path to the game's `Defs` folder. All sub-folders are also scanned.
+ - **#2**: Optional path to another defs folder, such as a DLC defs or mod defs folder. Any number of folders can be added by adding more arguments.
 
 ![screen1](https://github.com/Epicguru/Rimworld-Auto-Documentation/blob/master/Images/CommandLine.png)
 
